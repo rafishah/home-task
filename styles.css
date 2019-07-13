@@ -1,0 +1,68 @@
+/*Measurement Unit*/
+.px {
+    font-size: 30px;
+}
+
+.pt {
+    font-size: 30pt;
+}
+
+.em {
+    font-size: 3em;
+}
+
+.rem {
+    font-size: 3rem;
+}
+
+.percentage {
+    font-size: 300%;
+}
+
+/* Color */
+
+.sc {
+    color: red;
+    background-color: azure;
+}
+
+.hexa {
+    color: #3cb371;
+}
+
+.rgb {
+    color: rgb(0, 0, 255);
+
+}
+
+.rgba {
+    color: rgba(255, 99, 71, 0.6);
+}
+
+/* Table */
+
+table {
+    border: 1px solid red;
+}
+
+th {
+    font-size: 30px;
+    background: azure;
+    color: blue;
+
+}
+
+table tr td {
+    border: 1px solid red;
+    padding: 50px;
+    font-size: 30px;
+    color: blue;
+}
+
+/* Main div */
+
+.main {
+    width: 50%;
+    margin: 30px auto;
+    background-color: azure;
+}
